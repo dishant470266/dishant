@@ -1,0 +1,43 @@
+fieldset{
+         background-color:DodgerBlue  ;
+         margin:50px;
+
+        }
+
+
+
+
+.imgcontainer
+       {
+       padding: 16px;
+       text-align:center;
+       margin:24px 10px 12px 10px;
+       background-color:Cyan;
+       border-radius: 10%;
+       }
+
+     img.avatar
+      {
+         width: 20%;
+         border-radius: 50%;
+
+
+       }
+       .button
+       {
+
+         color:green;
+
+
+
+       }
+
+.container {
+
+            border-radius: 5%;
+            padding: 16px;
+            margin:12px 10px 12px 10px;
+            background-color:Cyan;
+
+
+           }
